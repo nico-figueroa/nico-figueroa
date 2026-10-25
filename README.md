@@ -39,7 +39,8 @@ With a career that spans industries and technical domains, I bring versatility, 
 [![Nico-Custom-Huskey-Manager](https://github-stats-extended.vercel.app/api/pin/?username=nico-figueroa&repo=Nico-Custom-Huskey-Manager)](https://github.com/nico-figueroa/Nico-Custom-Huskey-Manager)
 [![Python-Lessons](https://github-stats-extended.vercel.app/api/pin/?username=nico-figueroa&repo=Python-Lessons)](https://github.com/nico-figueroa/Python-Lessons)
 [![unboundroot.com](https://github-stats-extended.vercel.app/api/pin/?username=nico-figueroa&repo=unboundroot.com)](https://github.com/nico-figueroa/unboundroot.com)
-[![nico-figueroa](https://github-stats-extended.vercel.app/api/pin/?username=nico-figueroa&repo=nico-figueroa)](https://github.com/nico-figueroa/nico-figueroa)
+
+Additional examples of Full Stack and AI Engineering work available in private repositories. Controlled view access may be granted upon request.
 
 ## Contact
 
