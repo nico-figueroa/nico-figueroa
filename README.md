@@ -27,6 +27,15 @@ With a career that spans industries and technical domains, I bring versatility, 
 
 [![Browse all public repositories](https://img.shields.io/badge/GitHub-Browse%20all%20public%20repositories-181717?logo=github)](https://github.com/nico-figueroa?tab=repositories)
 
+| Repository | Description | Primary language |
+| --- | --- | --- |
+| [AI_Engineering_Lessons](https://github.com/nico-figueroa/AI_Engineering_Lessons) | Explorations and learning about AI from multiple sources. | Jupyter Notebook |
+| [Full_Stack_Engineering_Lessons](https://github.com/nico-figueroa/Full_Stack_Engineering_Lessons) | Explorations and learning following Codecademy curricula. | JavaScript |
+| [Nico-Custom-Huskey-Manager](https://github.com/nico-figueroa/Nico-Custom-Huskey-Manager) | Customized HusKey Manager project from the University of Washington iSchool. | PHP |
+| [Python-Lessons](https://github.com/nico-figueroa/Python-Lessons) | Explorations and learning about Python from multiple sources. | Jupyter Notebook |
+| [unboundroot.com](https://github.com/nico-figueroa/unboundroot.com) | A personal project promoting cyberspace education and awareness. | HTML |
+| [nico-figueroa](https://github.com/nico-figueroa/nico-figueroa) | Profile customization. | Markdown |
+
 ## Contact
 
 [GitHub profile](https://github.com/nico-figueroa)
