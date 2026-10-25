@@ -19,9 +19,7 @@ With a career that spans industries and technical domains, I bring versatility, 
 
 ## GitHub stats
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=nico-figueroa)](https://github.com/stats-organization/github-stats-extended)
-
-[![Top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=nico-figueroa&layout=compact&langs_count=8&count_private=true)](https://github.com/stats-organization/github-stats-extended)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=nico-figueroa)](https://github.com/stats-organization/github-stats-extended)    [![Top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=nico-figueroa&layout=compact&langs_count=8&count_private=true)](https://github.com/stats-organization/github-stats-extended)
 
 ## Public repositories
 
@@ -33,8 +31,4 @@ With a career that spans industries and technical domains, I bring versatility, 
 [![Python-Lessons](https://github-stats-extended.vercel.app/api/pin/?username=nico-figueroa&repo=Python-Lessons)](https://github.com/nico-figueroa/Python-Lessons)
 [![unboundroot.com](https://github-stats-extended.vercel.app/api/pin/?username=nico-figueroa&repo=unboundroot.com)](https://github.com/nico-figueroa/unboundroot.com)
 
-Additional examples of Full Stack and AI Engineering work available in private repositories. Controlled view access may be granted upon request.
-
-## Contact
-
-[GitHub profile](https://github.com/nico-figueroa)
+Additional examples of Full Stack and AI Engineering work available in private repositories. Controlled view access may be granted upon request via email.
