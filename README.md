@@ -1,6 +1,4 @@
-# Nomadant
-
-### Nico Figueroa | Systems-driven engineering and technology
+# Nico Figueroa | Systems-driven engineering and technology
 
 ## About
 
@@ -24,11 +22,6 @@ With a career that spans industries and technical domains, I bring versatility, 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=nico-figueroa)](https://github.com/stats-organization/github-stats-extended)
 
 [![Top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=nico-figueroa&layout=compact&langs_count=8&count_private=true)](https://github.com/stats-organization/github-stats-extended)
-
-[![Development time](https://github-stats-extended.vercel.app/api/wakatime?username=nico-figueroa&layout=compact&langs_count=8)](https://wakatime.com/@nico-figueroa)
-
-> The shared stats service can show public repository data. Including private repositories in the language count requires a self-hosted GitHub Stats Extended instance with a token authorized to read them; never put that token in this README.
-> The development-time card requires a WakaTime account matching `nico-figueroa`.
 
 ## Public repositories
 
