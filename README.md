@@ -23,18 +23,23 @@ With a career that spans industries and technical domains, I bring versatility, 
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=nico-figueroa)](https://github.com/stats-organization/github-stats-extended)
 
+[![Top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=nico-figueroa&layout=compact&langs_count=8&count_private=true)](https://github.com/stats-organization/github-stats-extended)
+
+[![Development time](https://github-stats-extended.vercel.app/api/wakatime?username=nico-figueroa&layout=compact&langs_count=8)](https://wakatime.com/@nico-figueroa)
+
+> The shared stats service can show public repository data. Including private repositories in the language count requires a self-hosted GitHub Stats Extended instance with a token authorized to read them; never put that token in this README.
+> The development-time card requires a WakaTime account matching `nico-figueroa`.
+
 ## Public repositories
 
 [![Browse all public repositories](https://img.shields.io/badge/GitHub-Browse%20all%20public%20repositories-181717?logo=github)](https://github.com/nico-figueroa?tab=repositories)
 
-| Repository | Description | Primary language |
-| --- | --- | --- |
-| [AI_Engineering_Lessons](https://github.com/nico-figueroa/AI_Engineering_Lessons) | Explorations and learning about AI from multiple sources. | Jupyter Notebook |
-| [Full_Stack_Engineering_Lessons](https://github.com/nico-figueroa/Full_Stack_Engineering_Lessons) | Explorations and learning following Codecademy curricula. | JavaScript |
-| [Nico-Custom-Huskey-Manager](https://github.com/nico-figueroa/Nico-Custom-Huskey-Manager) | Customized HusKey Manager project from the University of Washington iSchool. | PHP |
-| [Python-Lessons](https://github.com/nico-figueroa/Python-Lessons) | Explorations and learning about Python from multiple sources. | Jupyter Notebook |
-| [unboundroot.com](https://github.com/nico-figueroa/unboundroot.com) | A personal project promoting cyberspace education and awareness. | HTML |
-| [nico-figueroa](https://github.com/nico-figueroa/nico-figueroa) | Profile customization. | Markdown |
+[![AI_Engineering_Lessons](https://github-stats-extended.vercel.app/api/pin/?username=nico-figueroa&repo=AI_Engineering_Lessons)](https://github.com/nico-figueroa/AI_Engineering_Lessons)
+[![Full_Stack_Engineering_Lessons](https://github-stats-extended.vercel.app/api/pin/?username=nico-figueroa&repo=Full_Stack_Engineering_Lessons)](https://github.com/nico-figueroa/Full_Stack_Engineering_Lessons)
+[![Nico-Custom-Huskey-Manager](https://github-stats-extended.vercel.app/api/pin/?username=nico-figueroa&repo=Nico-Custom-Huskey-Manager)](https://github.com/nico-figueroa/Nico-Custom-Huskey-Manager)
+[![Python-Lessons](https://github-stats-extended.vercel.app/api/pin/?username=nico-figueroa&repo=Python-Lessons)](https://github.com/nico-figueroa/Python-Lessons)
+[![unboundroot.com](https://github-stats-extended.vercel.app/api/pin/?username=nico-figueroa&repo=unboundroot.com)](https://github.com/nico-figueroa/unboundroot.com)
+[![nico-figueroa](https://github-stats-extended.vercel.app/api/pin/?username=nico-figueroa&repo=nico-figueroa)](https://github.com/nico-figueroa/nico-figueroa)
 
 ## Contact
 
