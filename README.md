@@ -27,6 +27,7 @@ With a career that spans different industries and technical domains, I bring ver
 
 [![Browse all public repositories](https://img.shields.io/badge/GitHub-Browse%20all%20public%20repositories-181717?logo=github)](https://github.com/nico-figueroa?tab=repositories)
 
+[![Trip_Planner_AI_Agent](https://github-stats-extended.vercel.app/api/pin/?username=nico-figueroa&repo=Trip_Planner_AI_Agent&theme=dark)](https://github.com/nico-figueroa/Trip_Planner_AI_Agent)
 [![AI_Engineering_Lessons](https://github-stats-extended.vercel.app/api/pin/?username=nico-figueroa&repo=AI_Engineering_Lessons&theme=dark)](https://github.com/nico-figueroa/AI_Engineering_Lessons)
 [![Full_Stack_Engineering_Lessons](https://github-stats-extended.vercel.app/api/pin/?username=nico-figueroa&repo=Full_Stack_Engineering_Lessons&theme=dark)](https://github.com/nico-figueroa/Full_Stack_Engineering_Lessons)
 [![Nico-Custom-Huskey-Manager](https://github-stats-extended.vercel.app/api/pin/?username=nico-figueroa&repo=Nico-Custom-Huskey-Manager&theme=dark)](https://github.com/nico-figueroa/Nico-Custom-Huskey-Manager)
