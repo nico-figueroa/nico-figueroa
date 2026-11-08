@@ -21,21 +21,4 @@ With a career that spans different industries and technical domains, **I bring v
 
 ## GitHub stats
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=nico-figueroa&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=nico-figueroa&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=dark_github)
-
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=nico-figueroa&langs_count=6&theme=dark_github&size_weight=0.5&count_weight=0.5)](https://github-stats-extended.vercel.app/api/top-langs?username=nico-figueroa&langs_count=6&theme=dark_github&size_weight=0.5&count_weight=0.5)
-
-## Public repositories
-
-[![Browse all public repositories](https://img.shields.io/badge/GitHub-Browse%20all%20public%20repositories-181717?logo=github)](https://github.com/nico-figueroa?tab=repositories)
-
-[![AI_video_studio](https://github-stats-extended.vercel.app/api/pin/?username=nico-figueroa&repo=AI_video_studio&theme=dark)](https://github.com/nico-figueroa/AI_video_studio)
-[![nicolas-figueroa.me](https://github-stats-extended.vercel.app/api/pin/?username=nico-figueroa&repo=nicolas-figueroa.me&theme=dark)](https://github.com/nico-figueroa/nicolas-figueroa.me)
-[![Trip_Planner_AI_Agent](https://github-stats-extended.vercel.app/api/pin/?username=nico-figueroa&repo=Trip_Planner_AI_Agent&theme=dark)](https://github.com/nico-figueroa/Trip_Planner_AI_Agent)
-[![AI_Engineering_Lessons](https://github-stats-extended.vercel.app/api/pin/?username=nico-figueroa&repo=AI_Engineering_Lessons&theme=dark)](https://github.com/nico-figueroa/AI_Engineering_Lessons)
-[![Full_Stack_Engineering_Lessons](https://github-stats-extended.vercel.app/api/pin/?username=nico-figueroa&repo=Full_Stack_Engineering_Lessons&theme=dark)](https://github.com/nico-figueroa/Full_Stack_Engineering_Lessons)
-[![Nico-Custom-Huskey-Manager](https://github-stats-extended.vercel.app/api/pin/?username=nico-figueroa&repo=Nico-Custom-Huskey-Manager&theme=dark)](https://github.com/nico-figueroa/Nico-Custom-Huskey-Manager)
-[![Python-Lessons](https://github-stats-extended.vercel.app/api/pin/?username=nico-figueroa&repo=Python-Lessons&theme=dark)](https://github.com/nico-figueroa/Python-Lessons)
-[![unboundroot.com](https://github-stats-extended.vercel.app/api/pin/?username=nico-figueroa&repo=unboundroot.com&theme=dark)](https://github.com/nico-figueroa/unboundroot.com)
-
-Additional examples of Full Stack and AI Engineering work available in private repositories. Controlled view access may be granted upon request via email.
