@@ -18,7 +18,3 @@ With a career that spans different industries and technical domains, **I bring v
 
 - [Codecademy AI Engineer Career Path certificate](https://www.codecademy.com/profiles/Nomadant/certificates/d71aa6cd51ca461b9d84ec55441e34bf)
 - [Codecademy Full-Stack Engineering certificate](https://www.codecademy.com/profiles/Nomadant/certificates/ffd0f42cce1a44e9a0108b365047a0a6)
-
-## GitHub stats
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=nico-figueroa&langs_count=6&theme=dark_github&size_weight=0.5&count_weight=0.5)](https://github-stats-extended.vercel.app/api/top-langs?username=nico-figueroa&langs_count=6&theme=dark_github&size_weight=0.5&count_weight=0.5)
