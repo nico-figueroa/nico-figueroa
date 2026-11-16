@@ -1,4 +1,4 @@
-# Nico Figueroa | Systems-driven engineering and technology
+# Nico Figueroa | Product Builder | Business Systems Thinker | Process, Automation & AI
 
 ## About
 
@@ -8,11 +8,13 @@ I am a **systems-driven engineering and technology professional** with experienc
 
 I hold a **Master of Science in Information Management (MSIM)** from the University of Washington, graduating with a 4.0 GPA, and a Bachelor’s in Electrical Engineering. My academic foundation in mathematics, statistics, systems analysis, and information management complements professional **certifications in Software Validation, Risk Management Integration, Full-Stack and AI Engineering**. I continue expanding my capabilities in neural networks, machine learning, cloud computing and intelligent automation.
 
-My technical portfolio — available on GitHub — reflects hands-on experience with Python, JavaScript, Node.js, Express, React, SQL, PostgreSQL, OAuth, REST APIs, and AI applications. I’ve prototyped full-stack systems, secure web architectures, ML, LLM and RAG pipelines, and automation solutions that bridge software, data, and operational workflows with the people who use them.
+My technical portfolio in these repositories reflect hands-on experience with Python, JavaScript, Node.js, Express, React, SQL, PostgreSQL, OAuth, REST APIs, and AI applications. I’ve prototyped and deployed full-stack systems, secure web architectures, ML, LLM and RAG pipelines, and automation solutions that bridge software, data, and operational workflows with the people who use them.
+
+I help organizations solve business problems by combining operational excellence, technology strategy, automation, and AI. My focus is not on adopting technology for its own sake, but on identifying practical solutions that create measurable value. When a genuine gap exists, I enjoy designing and building software products that improve efficiency, reduce complexity, and support business growth. My approach is simple: understand the problem, choose the right solution, and build only what truly needs to be built.
 
 **I thrive where disciplines intersect. My strength is systemic thinking and cross-functional integration: understanding how complex systems behave, identifying patterns across domains, and translating ambiguity into structured, reliable, scalable solutions. As a continuous learner, I stay current with emerging technologies, frameworks, and industry trends — ensuring my knowledge evolves alongside the systems I build and support.**
 
-With a career that spans different industries and technical domains, **I bring versatility, adaptability, and a holistic engineering mindset — ready to contribute wherever systems, data, and intelligent automation meet.**
+With a career that spans different industries and technical domains, **I bring versatility, adaptability, and a holistic engineering mindset — ready to contribute wherever systems, data, and intelligent automation meet.** Through the same, I have learned that many organizations can unlock significant improvements by simplifying processes, eliminating unnecessary work, and making better use of the tools they already own. Before recommending new technology, I focus on understanding the underlying problem and its root causes.
 
 ## Software Development Certifications
 
